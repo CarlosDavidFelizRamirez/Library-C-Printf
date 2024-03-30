@@ -1,4 +1,4 @@
-# Ft_Printf
+# Printf
 
 A partial reimplementation of the printf in C. Handles only the following conversions.
 
