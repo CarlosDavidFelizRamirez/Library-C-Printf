@@ -6,15 +6,15 @@
 #    By: cfeliz-r <cfeliz-r@student.your42network.  +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2024/03/27 13:39:18 by cfeliz-r          #+#    #+#              #
-#    Updated: 2024/03/30 01:20:04 by cfeliz-r         ###   ########.fr        #
+#    Updated: 2024/04/23 16:26:23 by cfeliz-r         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 NAME	= libftprintf.a
 
-SRCS	= ./sources/ft_printf.c \
-	./sources/ft_numbers.c \
-	./sources/ft_words.c \
+SRCS	= ft_printf.c \
+	ft_numbers.c \
+	ft_words.c \
 
 OBJS	= $(SRCS:.c=.o)
 

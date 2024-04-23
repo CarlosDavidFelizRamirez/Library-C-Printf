@@ -6,11 +6,11 @@
 /*   By: cfeliz-r <cfeliz-r@student.your42network.  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/03/30 01:19:16 by cfeliz-r          #+#    #+#             */
-/*   Updated: 2024/03/30 01:22:35 by cfeliz-r         ###   ########.fr       */
+/*   Updated: 2024/04/23 16:25:42 by cfeliz-r         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../includes/ft_printf.h"
+#include "ft_printf.h"
 
 //character
 

@@ -6,11 +6,11 @@
 /*   By: cfeliz-r <cfeliz-r@student.your42network.  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/03/30 01:19:02 by cfeliz-r          #+#    #+#             */
-/*   Updated: 2024/03/30 01:22:53 by cfeliz-r         ###   ########.fr       */
+/*   Updated: 2024/04/23 16:24:06 by cfeliz-r         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../includes/ft_printf.h"
+#include "ft_printf.h"
 
 static void	ft_printf_checker(char s, va_list *args, int *len, int *i)
 {
